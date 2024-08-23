@@ -21,14 +21,10 @@ Elaborar um site de E-Commerce, com o intuito de repassarmos percentuais dos pro
 
 João Pedro Guimarães da Silva de Jesus [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/joao-pedro-guimar%C3%A3es-77697b150/)
 
-William Campos Belcari [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/william-campos-belcari-954292203/)
-
 Isabelly Dornelas [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/isadornelas/)
 
 Yanca Dantas [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/yanca-dantas/)
 
 Weida Viana [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/weida-winy/)
-
-Gustavo Oliveira [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/oliveiragusta/)
 
 Felipe Porto [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/felipe-wenceslau-b01844299/)
